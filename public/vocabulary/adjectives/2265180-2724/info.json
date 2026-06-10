@@ -1,0 +1,14 @@
+{
+"user": {
+    "username": "Esteban Rivera Gonzalez",
+    "profileImage": "https://github.com/EstebanRivera23",
+    "socialLink": "@itsrivera"
+},
+"words": [
+    { "id": 1, "en": "rough", "es": "áspero" },
+    { "id": 2, "en": "narrow", "es": "estrecho" },
+    { "id": 3, "en": "gentle", "es": "amable" },
+    { "id": 4, "en": "empty", "es": "vacío" }
+]
+
+}
