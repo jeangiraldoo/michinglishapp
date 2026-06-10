@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Alejandro Fernández",
+    "profileImage": "https://avatars.githubusercontent.com/Alejandro-Fernandez-Herrera",
+    "socialLink": "@Alejandro-Fernandez-Herrera"
+  },
+  "words": [
+    { "id": 1, "en": "black",  "es": "negro" },
+    { "id": 2, "en": "white",  "es": "blanco" },
+    { "id": 3, "en": "purple", "es": "morado" },
+    { "id": 4, "en": "orange", "es": "naranja" }
+  ]
+}
