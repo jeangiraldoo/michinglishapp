@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jean Giraldo",
+    "profileImage": "https://avatars.githubusercontent.com/u/103008008?v=4",
+    "socialLink": "@jeangiraldoo"
+  },
+  "words": [
+    { "id": 1, "en": "tartigrade", "es": "tartigrado" },
+    { "id": 2, "en": "axolotl", "es": "ajolote" },
+    { "id": 3, "en": "octopus", "es": "pulpo" },
+    { "id": 4, "en": "owl", "es": "búho" }
+  ]
+}
