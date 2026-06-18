@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Santiago Valencia",
+    "profileImage": "https://github.com/santi4914",
+    "socialLink": "@santiagovalencia"
+  },
+  "words": [
+    { "id": 1, "en": "pineapple", "es": "piña" },
+    { "id": 2, "en": "cherry", "es": "cereza" },
+    { "id": 3, "en": "mango", "es": "mango" },
+    { "id": 4, "en": "lemon", "es": "limón" }
+  ]
+}
