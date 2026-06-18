@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Monica",
+    "profileImage": "https://api.dicebear.com/7.x/adventurer/svg?seed=Monica",
+    "socialLink": "@monica_dev"
+  },
+  "words": [
+    { "id": 1, "en": "in", "es": "en" },
+    { "id": 2, "en": "above",  "es": "por encima de" },
+    { "id": 3, "en": "next to",  "es": "al lado de" },
+    { "id": 4, "en": "in front of","es": "frente a" }
+  ]
+}
